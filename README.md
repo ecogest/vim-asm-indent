@@ -1,6 +1,6 @@
 # VIM-ASM-indent
 
-Fork of [philj56/vim-asm-indent](https://github.com/ecogest/vim-asm-indent).
+Fork of [philj56/vim-asm-indent](https://github.com/philj56/vim-asm-indent).
 
 This unindents labels and comments, indents everything else.
 
