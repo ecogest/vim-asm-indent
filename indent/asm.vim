@@ -23,7 +23,8 @@ function! GetAsmIndent()
 
   " If the line is a label (starts with ':' terminated keyword), 
   " then don't indent
-  if line =~ '^\s*\k\+:'
+  " if line =~ '^\s*\k\+:'
+  if line =~ '^\(;\|\s*\k\+:\)'
     let ind = 0
   endif
 
