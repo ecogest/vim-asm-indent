@@ -1,5 +1,8 @@
 # VIM-ASM-indent
-(Extremely) basic vim auto-indentation support for assembly files. This simply unindents labels, and indents everything else.
+
+Fork of [philj56/vim-asm-indent](https://github.com/ecogest/vim-asm-indent).
+
+This unindents labels and comments, indents everything else.
 
 ## Installation
 
